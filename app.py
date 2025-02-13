@@ -14,7 +14,7 @@ st.set_page_config(
 
 # Title and description
 st.title("🛍️ Customer Segmentation Analysis Dashboard")
-st.markdown('[View code on GitHub](https://github.com/YourGitHubUsername)', unsafe_allow_html=True)
+st.markdown('[View code on GitHub](https://github.com/JoelNgiamKeeYong/uk-online-retail-clustering)', unsafe_allow_html=True)
 st.markdown("""
 This dashboard analyzes customer behavior using RFM (Recency, Frequency, Monetary) metrics and K-means clustering.
 The analysis is based on the Online Retail II dataset, which contains transactions from a UK-based online retail store.
